@@ -3,8 +3,7 @@ FROM ghcr.io/icsc-spoke2-repo/jlab:wp5-alma9-highrate-v0.1.3
 # Add missing packages via Conda
 WORKDIR /
 RUN python3 -m pip install \
-tensorflow==2.12.0 \
-typing_extensions==4.6.0
+tensorflow==2.12.0
 
 WORKDIR /opt/workspace
 
