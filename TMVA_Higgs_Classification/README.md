@@ -2,7 +2,7 @@
 
 First hands-on on a simple classification use-case, using the publicly available [Higgs UCI dataset](http://archive.ics.uci.edu/ml/datasets/HIGGS). 
 > [!NOTE]  
-> This hands-on is taken from the ROOT-TMVA [tutorial](https://root.cern/doc/v630/TMVA__Higgs__Classification_8py.html).
+> This hands-on is taken from the ROOT-TMVA [tutorial](https://root.cern/doc/v630/TMVA__Higgs__Classification_8py.html) (credits Harshal Shende).
 
 
 ## How to run this hands-on (standalone)
