@@ -1,4 +1,4 @@
-name: build-images
+name: Build image for Analysis Facility
 
 on:
   push:
