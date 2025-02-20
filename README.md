@@ -2,7 +2,6 @@
 
 ![home](images/home.png)
 
-[![jupyterlab_AF_image](https://github.com/tommasodiotalevi/AI4HEP/actions/workflows/build-image.yaml/badge.svg)](https://github.com/tommasodiotalevi/AI4HEP/actions/workflows/build-image.yaml)
 
 This repository contains the material for the PhD course in Data Science and Computation, at the University of Bologna.
 
