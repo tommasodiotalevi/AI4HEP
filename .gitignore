@@ -41,3 +41,15 @@ pythonenv*
 Thumbs.db
 
 # End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks
+
+# ROOT files
+*.root
+
+# CSV files
+*.csv
+
+# h5 files
+*.h5
+
+# HLS4ML project
+QKeras_Model_60_50_30_40_15/
