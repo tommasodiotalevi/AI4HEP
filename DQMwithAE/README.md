@@ -11,3 +11,12 @@ The instructions on how to run the container are available in this [Github repos
 
 > [!IMPORTANT]
 > This repository must be cloned inside the `persistent-storage` folder of the other repository, in order to see it inside the container.
+
+## Repository structure
+
+The structure of this hands-on is organized as follows:
+
+- `DQMwithAE.ipynb`: Jupyter notebook with the hands-on session, for Data Quality Monitoring using Autoencoders.
+- `DQMwithLSTM.ipynb`: Jupyter notebook with an additional example of using LSTM Autoencoders for sequential data.
+
+Data will be automatically downloaded when running the notebooks and stored in a `data/` folder.
