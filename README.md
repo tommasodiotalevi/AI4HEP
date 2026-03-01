@@ -16,3 +16,9 @@ The structure is organized as follows:
 ## Credits
 
 All the credits for the hands-on sessions are listed inside the respective folders.
+
+## Acknowledgements
+
+This work is partially supported by ICSC – Centro Nazionale di Ricerca in High Performance Computing, Big Data and Quantum Computing, funded by European Union – NextGenerationEU.
+
+![acknowledgements](images/banner_icsc.png)
